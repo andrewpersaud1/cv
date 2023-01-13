@@ -1,0 +1,118 @@
+body{
+    margin: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color: white ;
+}
+
+h1{
+    padding-top: 50px;
+    margin-top: 0px;
+    margin: auto;
+    font-family: 'Yellowtail', cursive;
+    font-size: 50px;
+}
+hr {
+    border-color: #FF1700;
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    line-height: 2;
+}
+
+.top-container{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    padding-bottom: 150px;
+}
+
+.middle-container{
+    background-color: black;
+}
+
+
+.bottom-container{
+    background-color: black;
+}
+
+.footer-link:hover{
+    background-image: -webkit-linear-gradient(top, rgb(31, 243, 218), rgb(205, 205, 193));
+}
+
+.blossom{
+    width: 500px;
+    height: 500px;
+    background-color: #E5DCC3;
+}
+
+.bottom-dumbell{ 
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    left: 700px;
+    top: 58px;
+
+}
+.top-gpu{
+    padding-top:50px;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    right: 700px;
+}
+.my-photo{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    
+}
+
+  .btn:hover {
+    background: black;
+    background-image: -webkit-linear-gradient(top, rgb(0, 0, 0), rgb(44, 5, 237));
+    background-image: -o-linear-gradient(top, black, black);
+    
+    text-decoration: none;
+  }
+
+
+
+  .btn2:hover {
+    background: black;
+    background-image: -webkit-linear-gradient(top, rgb(249, 0, 37), rgb(205, 205, 193));
+    background-image: -o-linear-gradient(top, black, black);
+    text-decoration: none;
+  }
+
+.charmander{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+.planet{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+
+}
+
+.links{
+    font-family: 'Nunito', sans-serif,'Times New Roman'
+}
+
+.giphy-embed{
+    height: 50px;
+    right: 50px;
+}
+
+.About_Me{
+    padding: 70px;
+
+}
+
+.h2{
+    font-weight: normal;
+}
